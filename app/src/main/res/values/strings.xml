@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Hewanpedia</string>
+    // Biodata
+    <string name="btn_profil">Profil</string>
+    <string name="judul_profil">Profil Mahasiswa</string>
+    <string name="profil">Eki Alfani</string>
+    <string name="identitas_lengkap">Identitas Lengkap</string>
+    <string name="nama">Nama :</string>
+    <string name="nama_value">" Eki Alfani"</string>
+    <string name="nim">"NIM : "</string>
+    <string name="nim_value">" 200602103"</string>
+    <string name="prodi">"Prodi : "</string>
+    <string name="prodi_value">" Teknik Informatika"</string>
+    <string name="kelas">"Kelas : "</string>
+    <string name="kelas_value">" D"</string>
+    <string name="tugas">"Tugas : "</string>
+    <string name="tugas_value">" Pemrograman Mobile"</string>
+    <string name="hobi">"Hobi : "</string>
+    <string name="hobi_value">" Memancing"</string>
+
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka berita)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="tikus">Tikus</string>
+    <string name="burung">Burung</string>
+    <string name="tikus_list_title">Daftar Ras Tikus</string>
+    <string name="burung_list_title">Daftar Ras Burung</string>
+    <string name="paus">Paus</string>
+    <string name="hiu">Hiu</string>
+    <string name="paus_list_title">Daftar Ras Paus</string>
+    <string name="hiu_list_title">Daftar Ras Hiu</string>
+
+    // Data tikus
+    <string name="acomys_nama">Acomys</string>
+    <string name="acomys_asal">Afrika</string>
+    <string name="acomys_deskripsi">Acomys adalah sebuah genus dari spesies hewan pengerat. Berpenampilan mirip dengan tikus dari genus Mus, genus tersebut adalah mamalia kecil dengan ekor pucat.</string>
+    <string name="tikus_ladang_bergaris_nama">Tikus Ladang Bergaris</string>
+    <string name="tikus_ladang_bergaris_asal">Eropa Timur sampai Asia Timur</string>
+    <string name="tikus_ladang_bergaris_deskripsi">Tikus ladang bergaris (Apodemus agrarius) adalah sebuah jenis tikus dalam keluarga Muridae. Persebaran spesies tersebut terbentang dari Eropa Timur sampai Asia Timur.</string>
+    <string name="tikus_rumput_sudan_nama">Tikus Rumput Sudan</string>
+    <string name="tikus_rumput_sudan_asal">Daerah Afrika</string>
+    <string name="tikus_rumput_sudan_deskripsi">Tikus rumput Sudan (Arvicanthis ansorgei) adalah sebuah spesies tikus dalam keluarga Muridae. Spesies tersebut ditemukan di Burkina Faso, Guinea-Bissau, Mali, Niger, Senegal, Benin, Pantai Gading, Ghana, Guinea, dan  Togo.</string>
+    <string name="gerbil_nama">Gerbil</string>
+    <string name="gerbil_asal">Afrika Utara</string>
+    <string name="gerbil_deskripsi">Gerbil adalah salah satu sub-keluarga dari keluarga hewan pengerat Muridae. Sempat disebut sebagai tikus gurun, sub-keluarga tersebut meliputi sekitar 110 spesies hewan pengerat Afrika, India dan Asia, yang meliputi tikus pasir dan jird, semuanya beradaptasi pada habitat kering.</string>
+    <string name="tikus_hutan_nama">Tikus Hutan</string>
+    <string name="tikus_hutan_asal">Eropa</string>
+    <string name="tikus_hutan_deskripsi">Tikus hutan (Apodemus sylvaticus) adalah sebuah jenis tikus Muridae yang berasal dari Eropa dan barat laut Afrika. Spesies tersebut berkerabat dengan tikus leher kuning (Apodemus flavicollis) namun berbeda dalam hal tak memiliki bulu kuning di sekitaran leher, memiliki telinga yang lebih kecil, dan biasanya memiliki tubuh yang lebih kecil: panjang sekitar 90 mm (3.54 in) dan berat 23 g.</string>
+    <string name="petromyscus_nama">Petromyscus</string>
+    <string name="petromyscus_asal">Afrika Barat</string>
+    <string name="petromyscus_deskripsi">Petromyscus adalah genus hewan pengerat dalam keluarga Nesomyidae. Sangat berbeda dari hewan pengerat lain sehingga ditempatkan sebagai satu-satunya genus di subfamili Petromyscinae.</string>
+
+    // Data burung
+    <string name="beo_nama">Beo</string>
+    <string name="beo_asal">Srilanka, india, Filipina dan Sunda Kecil</string>
+    <string name="beo_deskripsi">Beo, mamiang, atau tiong emas (Gracula) adalah sejenis burung anggota suku Sturnidae (jalak dan kerabatnya). Wilayah persebaran alaminya adalah mulai dari Sri Lanka, India, Himalaya, ke timur hingga Filipina, jawa hingga kepulauan sunda kecil. Burung ini dapat ditemukan di dataran rendah hingga dataran tinggi lebih dari 2000m.</string>
+    <string name="cenderawasih_nama">Cenderawasih</string>
+    <string name="cenderawasih_asal">Papua, Indonesia</string>
+    <string name="cenderawasih_deskripsi">Burung Cenderawasih merupakan anggota famili Paradisaeidae dari ordo Passeriformes. Cendrawasih biasanya ditemukan di Indonesia seperti di bagian Timur Papua, Papua Nugini, pulau-pulau selat Torres, dan Australia timur. Burung anggota keluarga ini dikenal karena bulu burung jantan pada banyak jenisnya, terutama bulu yang sangat memanjang dan rumit yang tumbuh dari paruh, sayap atau kepalanya.</string>
+    <string name="burung_hantu_nama">Burung Hantu</string>
+    <string name="burung_hantu_asal">Tersebar di seluruh dunia kecuali Antartika</string>
+    <string name="burung_hantu_deskripsi">Burung hantu adalah kelompok burung yang merupakan anggota ordo Strigiformes. Burung ini termasuk golongan burung buas (karnivora, pemakan daging) dan merupakan hewan malam (nokturnal). Seluruhnya, terdapat sekitar 222 spesies yang telah diketahui, yang menyebar di seluruh dunia kecuali Antarktika, sebagian besar Greenland, dan beberapa pulau-pulau terpencil.</string>
+    <string name="burung_unta_nama">Burung Unta</string>
+    <string name="burung_unta_asal">Afrika Utara dan Arab</string>
+    <string name="burung_unta_deskripsi">Burung unta merupakan burung terbesar yang masih hidup. Dengan ketinggian hingga 2,5 meter (8 kaki), ia cukup besar seukuran orang dewasa berbadan kecil menunggang mereka dan telah digunakan di sebagian Afrika Utara dan Arab sebagai hewan tunggangan perlombaan. Burung ini tidak dapat terbang dan termasuk dalam kumpulan primitif yang kurang dikenal, yaitu ratit (Palaeognaths). Nama ilmiahnya Struthio camelus.</string>
+    <string name="kakatua_nama">Kakatua</string>
+    <string name="kakatua_asal">Indonesia</string>
+    <string name="kakatua_deskripsi">Kakatua (suku Cacatuidae) adalah jenis burung hias yang memiliki bulu yang indah dengan lengkingan suara yang cukup nyaring. Spesies ini termasuk salah satu burung dengan kecerdasan yang cukup bagus, sehingga sering digunakan untuk acara-acara hiburan di kebun binatang atau tempat hiburan lainnya.</string>
+    <string name="jalak_bali_nama">Jalak Bali</string>
+    <string name="jalak_bali_asal">Bali, Indonesia</string>
+    <string name="jalak_bali_deskripsi">Jalak Bali (Leucopsar rothschildi) adalah sejenis burung pengicau berukuran sedang, dengan panjang lebih kurang 25cm,[1] dari suku Sturnidae. Ia turut dikenali sebagai Curik Ketimbang Jalak.[2] Jalak Bali hanya ditemukan di hutan bagian barat Pulau Bali dan merupakan hewan endemik Indonesia.</string>
+
+    // Data paus
+    <string name="paus_biru_nama">Paus Biru</string>
+    <string name="paus_biru_asal">Atlantik Utara dan Pasifik Utara</string>
+    <string name="paus_biru_deskripsi">Paus biru dianggap sebagai hewan terbesar yang pernah hidup di Bumi. Mereka mencapai panjang hingga 100 kaki dan berat 100 hingga 150 ton. Kulit mereka berwarna biru keabu-abuan yang indah, seringkali dengan bintik-bintik cahaya.</string>
+    <string name="paus_bungkuk_nama">Paus Bungkuk</string>
+    <string name="paus_bungkuk_asal">Pantai Montery, California U.S</string>
+    <string name="paus_bungkuk_deskripsi">Paus bungkuk dikenal sebagai New Englander bersayap besar karena memiliki sirip dada yang panjang, atau sirip dada, dan bungkuk. Ekornya yang megah dan berbagai perilaku spektakulernya menjadikan paus ini favorit para pengamat paus. Humpback adalah paus balin berukuran sedang dengan lapisan lemak tebal.</string>
+    <string name="paus_sikat_nama">Paus Sikat Atlantik Utara</string>
+    <string name="paus_sikat_asal">Samudra Atlantik</string>
+    <string name="paus_sikat_deskripsi">Paus Sikat Atlantik Utara adalah salah satu mamalia laut yang paling terancam punah, dengan hanya sekitar 400 yang tersisa. Dikenal sebagai The Right Whale bagi pemburu paus untuk berburu karena kecepatannya yang lambat, kecenderungan untuk mengapung ketika dibunuh, dan punya lapisan lemak tebal.</string>
+    <string name="paus_bryde_nama">Paus Bryde</string>
+    <string name="paus_bryde_asal">Perairan Tropis</string>
+    <string name="paus_bryde_deskripsi">Paus Bryde (diucapkan broodus) dinamai untuk Johan Bryde, yang membangun stasiun penangkapan paus pertama di Afrika Selatan. Mereka memiliki panjang 40 hingga 55 kaki dan berat hingga 45 ton dan paling sering ditemukan di perairan tropis dan subtropis.</string>
+    <string name="paus_beluga_nama">Paus Beluga</string>
+    <string name="paus_beluga_asal">Kutub Utara</string>
+    <string name="paus_beluga_deskripsi">Paus beluga disebut canary laut oleh pelaut karena vokalisasi yang khas, yang kadang-kadang bisa terdengar melalui lambung kapal. Warna beluga serba putih dan dahi bulat membuatnya berbeda dari spesies lain. Ia merupakan seekor ikan paus bergigi yang menemukan mangsanya menggunakan ekolokasi.</string>
+    <string name="paus_sirip_nama">Paus Sirip</string>
+    <string name="paus_sirip_asal">Atlantik Utara dan Antartika</string>
+    <string name="paus_sirip_deskripsi">Paus sirip atau paus bersirip (Balaenoptera physalus) adalah mamalia laut yang masuk kedalam subordo paus balin. Paus, yang memiliki panjang hampir sepanjang 27 meter,[1] adalah paus terbesar kedua dan binatang terbesar kedua di dunia setelah paus biru.</string>
+
+    // Data paus
+    <string name="hiu_biru_nama">Hiu Biru</string>
+    <string name="hiu_biru_asal">Lautan Tropis dan Sub Tropis</string>
+    <string name="hiu_biru_deskripsi">Hiu biru atau cucut biru besar (Prionace glauca) adalah spesies hiu dari famili Carcharhinidae, yang menghuni lautan tropis dan subtropis di seluruh dunia. Hiu ini menyukai air yang lebih dingin[3] dan mampu berkelana sejauh jarak New England ke Amerika Selatan. Hiu biru diklasifikasikan sebagai spesies mendekati terancam oleh IUCN.</string>
+    <string name="hiu_martil_nama">Hiu Martil</string>
+    <string name="hiu_martil_asal">Perairan Hangat</string>
+    <string name="hiu_martil_deskripsi">Hiu martil atau dalam bahasa Inggris disebut  Hammerhead Shark ini memiliki bentuk  kepala menyerupai martil gepeng dengan mata dan lubang hidung di ujung kepala. Bentuk kepalanya yang unik itu membuatnya mampu bermanuver di air dengan akurasi tinggi.</string>
+    <string name="hiu_gergaji_nama">Hiu Gergaji</string>
+    <string name="hiu_gergaji_asal">Australia, India, Afrika Selatan</string>
+    <string name="hiu_gergaji_deskripsi">Hiu gergaji atau Saw Shark memiliki moncong panjang mirip mata pisau yang dilengkapi serangkaian gigi layaknya gergaji bermata dua. Ikan ini mirip pari gergaji, tapi berbeda pada letak celah insang.</string>
+    <string name="hiu_threser_nama">Threser Shark</string>
+    <string name="hiu_threser_asal">Indo-Pasifik dan Laut Cina</string>
+    <string name="hiu_threser_deskripsi">Hiu thresher terdiri dari empat spesies yang keempatnya ditandai dengan ekor pada sirip atas yang panjangnya mencapai 50 persen dari total panjang keseluruhan. Hiu ini memiliki moncong pendek dan mata yang besar di depan kepala. Sirip punggung kedua jauh lebih pendek dari yang pertama.</string>
+    <string name="hiu_zebra_nama">Hiu Zebra</string>
+    <string name="hiu_zebra_asal">Pasifi-Indonesia</string>
+    <string name="hiu_zebra_deskripsi">Hiu Zebra, Stegostoma fasciatum, adalah hiu yang ada di perairan Indo-Pasifik yang memiliki sirip yang sangat panjang, hampir sepanjang tubuhnya. Hiu ini diberi nama hiu Zebra karena garis pada tubuhnya yang mirip garis zebra.</string>
+    <string name="hiu_greenland_nama">Hiu Greenland</string>
+    <string name="hiu_greenland_asal">Greenland</string>
+    <string name="hiu_greenland_deskripsi">Hiu greenland (Somniosus microcephalus) merupakan perenang lambat. Kecepatan renang hiu yang hidup di perairan dingin sekitar Greenland dan Iceland ini hanya 2,7 km per jam. Menurut para ilmuwan, kondisi ini dikarenakan rendahnya suhu air di Laut Arktik.</string>
+    <string name="go_back">Kembali</string>
+</resources>

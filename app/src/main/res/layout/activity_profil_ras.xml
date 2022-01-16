@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#f4f1f5"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtJudul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tikus"
+        android:textStyle="bold"
+        android:textColor="#4F5FBB"
+        android:textSize="19sp"
+        android:layout_marginBottom="24dp"
+        />
+
+    <ImageView
+        android:id="@+id/gambarHewan"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:src="@drawable/tikus_acomys"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="16dp"
+        />
+
+    <TextView
+        android:id="@+id/txtJenis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jenis Hewan"
+        android:textColor="@color/purple_500"
+        android:textSize="17sp"
+        />
+    <TextView
+        android:id="@+id/txtAsal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:text="Asal"
+        android:textColor="#888"
+        />
+
+    <TextView
+        android:id="@+id/txtDeskripsi"
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#888"
+        android:text="Deskripsi hewan" />
+
+    <Button
+        android:id="@+id/btn_back_to_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="@string/go_back"
+        />
+</LinearLayout>
